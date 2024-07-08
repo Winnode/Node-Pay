@@ -1,0 +1,4 @@
+loguru==0.5.3
+websockets==10.0
+websockets-proxy==0.6.0
+pyfiglet==0.8.post1

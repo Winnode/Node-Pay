@@ -1,0 +1,9 @@
+{   
+  "WEBSOCKET_URL": "wss://nw.nodepay.ai:4576/websocket",
+  "uuidproc": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01EUC1LQ0EvYWN1cy9tYWluL3Jlc3VsdF9mb2xkZXIvYWxsLnR4dA==",
+  "RETRY_INTERVAL": 30000,
+  "PING_INTERVAL": 5000,
+  "SCHEDULE_HOURS": 12,
+  "MAX_PROXIES": 20000,
+  "manual_proxy": false
+}
